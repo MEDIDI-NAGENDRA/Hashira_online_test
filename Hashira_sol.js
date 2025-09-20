@@ -177,6 +177,9 @@ const test2 = {
     }
 };
 console.log("Test case1:")
+
 console.log(findSecret(test1).toString());
-console.log("Test case2 :")
+
+console.log("Test case2:")
+
 console.log(findSecret(test2).toString());
